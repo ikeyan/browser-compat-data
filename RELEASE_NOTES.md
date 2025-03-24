@@ -1,5 +1,21 @@
 # @mdn/browser-compat-data release notes
 
+## [v5.7.6](https://github.com/mdn/browser-compat-data/releases/tag/v5.7.6)
+
+March 24, 2025
+
+### Additions
+
+- `api.Document.startViewTransition.callbackOptions_parameter` ([#26193](https://github.com/mdn/browser-compat-data/pull/26193))
+- `api.Document.startViewTransition.updateCallback_parameter` ([#26193](https://github.com/mdn/browser-compat-data/pull/26193))
+
+### Statistics
+
+- 3 contributors have changed 3 files with 95 additions and 14 deletions in 6 commits ([`v5.7.5...v5.7.6`](https://github.com/mdn/browser-compat-data/compare/v5.7.5...v5.7.6))
+- 17,051 total features
+- 1,134 total contributors
+- 5,164 total stargazers
+
 ## [v5.7.5](https://github.com/mdn/browser-compat-data/releases/tag/v5.7.5)
 
 March 21, 2025
